@@ -1,0 +1,11 @@
+.main {
+    background-color: #23252C;
+    color: white;
+}
+
+.columns {
+    display: flex;
+}
+.column {
+    margin: 0 10px;
+}
