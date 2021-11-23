@@ -47,18 +47,22 @@ const Footer = () => {
                     <img
                         className="column"
                         src="images/twitter.svg"
+                        alt="twitter"
                     />
                     <img
                         className="column"
                         src="images/facebook.svg"
+                        alt="facebook"
                     />
                     <img
                         className="column"
                         src="images/insta.svg"
+                        alt="insta"
                     />
                     <img
                         className="column"
                         src="images/git.svg"
+                        alt="git"
                     />
                 </div>
             </div>
